@@ -1,6 +1,8 @@
 
 ## Getting Started
-- Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
+- Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/), *You can Skip if you have*
+- Download the Code as zip.
+- Extract the code and navigate into the project folder
 - Open your terminal
 - Navigate to the project
 - Run `npm install` or `yarn install` if you use [Yarn](https://yarnpkg.com/en/)
